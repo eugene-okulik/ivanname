@@ -7,3 +7,4 @@ area = (a + b + c) / 2
 
 print(c)
 print(area)
+
