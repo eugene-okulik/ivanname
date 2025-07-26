@@ -6,4 +6,3 @@ geometric = (a * b) ** 0.5
 
 print(average)
 print(geometric)
-
